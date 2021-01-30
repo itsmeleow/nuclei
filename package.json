@@ -1,0 +1,21 @@
+{
+  "name": "nuclei",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsmeleow/nuclei.git"
+  },
+  "author": "leo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsmeleow/nuclei/issues"
+  },
+  "homepage": "https://github.com/itsmeleow/nuclei#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
